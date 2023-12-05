@@ -1,0 +1,32 @@
+E:\RESTFUL API Example\RESTFull API\RESTFull API\obj\Debug\net8.0\RESTFull API.csproj.AssemblyReference.cache
+E:\RESTFUL API Example\RESTFull API\RESTFull API\obj\Debug\net8.0\RESTFull API.GeneratedMSBuildEditorConfig.editorconfig
+E:\RESTFUL API Example\RESTFull API\RESTFull API\obj\Debug\net8.0\RESTFull API.AssemblyInfoInputs.cache
+E:\RESTFUL API Example\RESTFull API\RESTFull API\obj\Debug\net8.0\RESTFull API.AssemblyInfo.cs
+E:\RESTFUL API Example\RESTFull API\RESTFull API\obj\Debug\net8.0\RESTFull API.csproj.CoreCompileInputs.cache
+E:\RESTFUL API Example\RESTFull API\RESTFull API\obj\Debug\net8.0\RESTFull API.MvcApplicationPartsAssemblyInfo.cs
+E:\RESTFUL API Example\RESTFull API\RESTFull API\obj\Debug\net8.0\RESTFull API.MvcApplicationPartsAssemblyInfo.cache
+E:\RESTFUL API Example\RESTFull API\RESTFull API\bin\Debug\net8.0\appsettings.Development.json
+E:\RESTFUL API Example\RESTFull API\RESTFull API\bin\Debug\net8.0\appsettings.json
+E:\RESTFUL API Example\RESTFull API\RESTFull API\bin\Debug\net8.0\RESTFull API.exe
+E:\RESTFUL API Example\RESTFull API\RESTFull API\bin\Debug\net8.0\RESTFull API.deps.json
+E:\RESTFUL API Example\RESTFull API\RESTFull API\bin\Debug\net8.0\RESTFull API.runtimeconfig.json
+E:\RESTFUL API Example\RESTFull API\RESTFull API\bin\Debug\net8.0\RESTFull API.dll
+E:\RESTFUL API Example\RESTFull API\RESTFull API\bin\Debug\net8.0\RESTFull API.pdb
+E:\RESTFUL API Example\RESTFull API\RESTFull API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\RESTFUL API Example\RESTFull API\RESTFull API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\RESTFUL API Example\RESTFull API\RESTFull API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\RESTFUL API Example\RESTFull API\RESTFull API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\RESTFUL API Example\RESTFull API\RESTFull API\obj\Debug\net8.0\staticwebassets.build.json
+E:\RESTFUL API Example\RESTFull API\RESTFull API\obj\Debug\net8.0\staticwebassets.development.json
+E:\RESTFUL API Example\RESTFull API\RESTFull API\obj\Debug\net8.0\staticwebassets\msbuild.RESTFull API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\RESTFUL API Example\RESTFull API\RESTFull API\obj\Debug\net8.0\staticwebassets\msbuild.build.RESTFull API.props
+E:\RESTFUL API Example\RESTFull API\RESTFull API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RESTFull API.props
+E:\RESTFUL API Example\RESTFull API\RESTFull API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RESTFull API.props
+E:\RESTFUL API Example\RESTFull API\RESTFull API\obj\Debug\net8.0\staticwebassets.pack.json
+E:\RESTFUL API Example\RESTFull API\RESTFull API\obj\Debug\net8.0\scopedcss\bundle\RESTFull API.styles.css
+E:\RESTFUL API Example\RESTFull API\RESTFull API\obj\Debug\net8.0\RESTFull API.csproj.CopyComplete
+E:\RESTFUL API Example\RESTFull API\RESTFull API\obj\Debug\net8.0\RESTFull API.dll
+E:\RESTFUL API Example\RESTFull API\RESTFull API\obj\Debug\net8.0\refint\RESTFull API.dll
+E:\RESTFUL API Example\RESTFull API\RESTFull API\obj\Debug\net8.0\RESTFull API.pdb
+E:\RESTFUL API Example\RESTFull API\RESTFull API\obj\Debug\net8.0\RESTFull API.genruntimeconfig.cache
+E:\RESTFUL API Example\RESTFull API\RESTFull API\obj\Debug\net8.0\ref\RESTFull API.dll
